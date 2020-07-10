@@ -1,4 +1,3 @@
-import Prism from 'prismjs';
 import 'prism-svelte';
 
 import svelte from 'rollup-plugin-svelte-hot';
