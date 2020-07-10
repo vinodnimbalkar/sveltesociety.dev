@@ -1,11 +1,11 @@
 
 /**
  * @sveltech/routify 1.9.0
- * File generated Fri Jul 10 2020 15:39:22 GMT+0200 (Central European Summer Time)
+ * File generated Fri Jul 10 2020 16:42:20 GMT+0200 (Central European Summer Time)
  */
 
 export const __version = "1.9.0"
-export const __timestamp = "2020-07-10T13:39:22.589Z"
+export const __timestamp = "2020-07-10T14:42:20.368Z"
 
 //buildRoutes
 import { buildClientTree } from "@sveltech/routify/runtime/buildRoutes"
