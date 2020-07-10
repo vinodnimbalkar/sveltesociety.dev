@@ -1,11 +1,11 @@
 
 /**
  * @sveltech/routify 1.9.0
- * File generated Fri Jul 10 2020 16:42:20 GMT+0200 (Central European Summer Time)
+ * File generated Fri Jul 10 2020 19:56:29 GMT+0200 (Central European Summer Time)
  */
 
 export const __version = "1.9.0"
-export const __timestamp = "2020-07-10T14:42:20.368Z"
+export const __timestamp = "2020-07-10T17:56:29.635Z"
 
 //buildRoutes
 import { buildClientTree } from "@sveltech/routify/runtime/buildRoutes"
@@ -169,6 +169,11 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Build Setup",
+                  "layout": "recipeCategory",
+                  "icon": "/images/icons/test.svg"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -196,6 +201,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Transpiling ES6 to ES5 for Legacy Browser (IE11) Support with Babel",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -223,6 +232,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Using Future JS Syntax in Svelte with Babel",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -250,6 +263,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Using PostCSS with Svelte",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -277,6 +294,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Using TypeScript with Svelte",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -304,6 +325,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Writing Your Own Preprocessors",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -357,6 +382,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Form Validation with Svelte",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -384,6 +413,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Getting references to Components generated in an each block",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -411,6 +444,11 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Component Recipes",
+                  "layout": "recipeCategory",
+                  "icon": "/images/icons/test.svg"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -438,6 +476,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Passing attributes to component DOM element",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -465,6 +507,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Using Fetch to Consume APIs with Svelte",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -518,6 +564,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Authentication with Svelte",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -545,6 +595,11 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Design Patterns",
+                  "layout": "recipeCategory",
+                  "icon": "/images/icons/test.svg"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -572,6 +627,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Routing with Svelte",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -599,6 +658,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Server-side Rendering",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -679,6 +742,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Editable SVG Icon Systems with Svelte and Heroicons",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -706,6 +773,11 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Other",
+                  "layout": "recipeCategory",
+                  "icon": "/images/icons/test.svg"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -759,6 +831,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Dockerize a Svelte App",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -786,6 +862,11 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Publishing and Deploying",
+                  "layout": "recipeCategory",
+                  "icon": "/images/icons/test.svg"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -839,6 +920,11 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Stores",
+                  "layout": "recipeCategory",
+                  "icon": "/images/icons/test.svg"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -892,6 +978,11 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Svelte Language Fundamentals",
+                  "layout": "recipeCategory",
+                  "icon": "/images/icons/test.svg"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -919,6 +1010,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Looping",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -946,6 +1041,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Passing values from JS to CSS",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -973,6 +1072,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Reactivity",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -1000,6 +1103,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Scoped global CSS",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -1053,6 +1160,11 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Testing and Debugging Svelte",
+                  "layout": "recipeCategory",
+                  "icon": "/images/icons/test.svg"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,
@@ -1080,6 +1192,10 @@ export const _tree = {
               "isPage": true,
               "ownMeta": {},
               "meta": {
+                "frontmatter": {
+                  "title": "Unit Testing Svelte Components",
+                  "layout": "recipe"
+                },
                 "preload": false,
                 "prerender": true,
                 "precache-order": false,

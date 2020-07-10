@@ -12,6 +12,15 @@ module.exports = {
     "md"
   ],
   "distDir": "dist",
+  "plugins": {
+    "routify-plugin-frontmatter": {
+      "extensions": [
+        "md",
+        "svx",
+        "svelte"
+      ]
+    }
+  },
   "hashScroll": true,
-  "started": "2020-07-10T14:42:20.326Z"
+  "started": "2020-07-10T17:56:29.572Z"
 }
