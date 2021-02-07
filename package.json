@@ -62,6 +62,8 @@
   },
   "dependencies": {
     "@roxi/routify": "^2.10.6",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
     "prism-svelte": "^0.4.6",
     "prismjs": "^1.23.0",
     "svelte": "^3.31.1"
