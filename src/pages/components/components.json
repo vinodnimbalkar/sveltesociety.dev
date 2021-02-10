@@ -5,7 +5,7 @@
     "description": "A lightweight datepicker with neat animations and a unique UX",
     "image": "",
     "npm": "svelte-calendar",
-    "stars": 261,
+    "stars": 262,
     "tags": [
       "components and libraries",
       "time and date"
@@ -73,7 +73,7 @@
     "description": "Svelte UI components based on super lightweight chota CSS framework.",
     "image": "",
     "npm": "svelte-chota",
-    "stars": 133,
+    "stars": 136,
     "tags": [
       "components and libraries",
       "component sets"
@@ -128,7 +128,7 @@
     "description": "Highly declarative, very tiny (~3.8 Kb), dependency free router",
     "image": "",
     "npm": "tinro",
-    "stars": 320,
+    "stars": 321,
     "tags": [
       "routers"
     ],
@@ -233,7 +233,7 @@
     "description": "Generate dynamic forms for sveltejs / Sapper js",
     "image": "",
     "npm": "svelte-formly",
-    "stars": 76,
+    "stars": 78,
     "tags": [
       "forms and validation"
     ],
@@ -544,7 +544,7 @@
     "description": "Bulma components for Svelte",
     "image": "",
     "npm": "svelma",
-    "stars": 389,
+    "stars": 390,
     "tags": [
       "components and libraries",
       "component sets"
@@ -664,7 +664,7 @@
     "description": "A table with sorting and filtering",
     "image": "",
     "npm": "svelte-table",
-    "stars": 153,
+    "stars": 154,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -678,7 +678,7 @@
     "description": "Component for moveable, draggable, resizable, scalable, rotatable, and more",
     "image": "",
     "npm": "svelte-moveable",
-    "stars": 5312,
+    "stars": 5313,
     "tags": [
       "components and libraries",
       "interactions"
@@ -813,7 +813,7 @@
     "description": "A declarative Svelte routing library with SSR support",
     "image": "",
     "npm": "svelte-routing",
-    "stars": 1218,
+    "stars": 1219,
     "tags": [
       "routers"
     ],
@@ -919,7 +919,7 @@
     "description": "A simple, small, and content-agnostic modal for Svelte",
     "image": "",
     "npm": "svelte-simple-modal",
-    "stars": 118,
+    "stars": 120,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -939,7 +939,7 @@
     ],
     "title": "@urql/svelte",
     "url": "https://github.com/FormidableLabs/urql/tree/master/packages/svelte-urql",
-    "stars": 5490
+    "stars": 5494
   },
   {
     "addedOn": "2020-09-29T14:39:13Z",
@@ -959,7 +959,7 @@
     "description": "Icon components for Svelte, featuring many icon sets",
     "image": "",
     "npm": "svelte-icons",
-    "stars": 73,
+    "stars": 74,
     "tags": [
       "components and libraries",
       "fonts and icons"
@@ -973,7 +973,7 @@
     "description": "Svelte controlling native components via Nativescript",
     "image": "",
     "npm": "svelte-native",
-    "stars": 808,
+    "stars": 809,
     "tags": [
       "native"
     ],
@@ -1094,7 +1094,7 @@
     "description": "Svelte implementation of the Carbon Design System",
     "image": "",
     "npm": "carbon-components-svelte",
-    "stars": 604,
+    "stars": 608,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1135,7 +1135,7 @@
     "description": "Router for SPAs using Svelte 3",
     "image": "",
     "npm": "svelte-spa-router",
-    "stars": 697,
+    "stars": 698,
     "tags": [
       "routers"
     ],
@@ -1213,7 +1213,7 @@
     "category": "Boilerplate",
     "description": "Svelte + Storybook + Tailwind - Starter Template",
     "image": "",
-    "stars": 193,
+    "stars": 194,
     "tags": [
       "templates"
     ],
@@ -1267,7 +1267,7 @@
     "description": "Simple package that makes ML more accessible",
     "image": "",
     "npm": "svelteml",
-    "stars": 41,
+    "stars": 42,
     "tags": [
       "components and libraries"
     ],
@@ -1293,7 +1293,7 @@
     "category": "Boilerplate",
     "description": "A template to help you start developing SPAs with Svelte and Firebase",
     "image": "",
-    "stars": 98,
+    "stars": 99,
     "tags": [
       "templates"
     ],
@@ -1331,7 +1331,7 @@
     "description": "Ever wanted to have reactive css variables in Svelte? What if I tell you there's a way?",
     "image": "",
     "npm": "svelte-css-vars",
-    "stars": 147,
+    "stars": 148,
     "tags": [
       "components and libraries"
     ],
@@ -1372,7 +1372,7 @@
     "description": "A Svelte preprocessor with baked in support for common preprocessors",
     "image": "",
     "npm": "svelte-preprocess",
-    "stars": 937,
+    "stars": 938,
     "tags": [
       "integrations",
       "preprocessors"
@@ -1606,7 +1606,7 @@
     "description": "SASS/SCSS preprocessor",
     "image": "",
     "npm": "svelte-preprocess-sass",
-    "stars": 76,
+    "stars": 77,
     "tags": [
       "integrations",
       "preprocessors"
@@ -1699,7 +1699,7 @@
     "description": "Material design components for Svelte using Tailwind CSS",
     "image": "",
     "npm": "smelte",
-    "stars": 830,
+    "stars": 833,
     "tags": [
       "components and libraries",
       "component sets"
@@ -2295,7 +2295,7 @@
     "description": "A markdown preprocessor for Svelte",
     "image": "",
     "npm": "mdsvex",
-    "stars": 612,
+    "stars": 613,
     "tags": [
       "integrations",
       "preprocessors"
@@ -2375,7 +2375,7 @@
     "category": "Forms & User Input",
     "description": "Simple autocomplete / typeahead component for Svelte",
     "image": "",
-    "stars": 91,
+    "stars": 92,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -2468,7 +2468,7 @@
     "category": "Developer Experience",
     "description": "Chrome/Firefox extension that allows inspection of Svelte components and state",
     "image": "",
-    "stars": 466,
+    "stars": 468,
     "tags": [
       "components and libraries",
       "development and documentation"
@@ -2507,7 +2507,7 @@
     "description": "Experimental charting library for Svelte",
     "image": "",
     "npm": "@sveltejs/pancake",
-    "stars": 651,
+    "stars": 652,
     "tags": [
       "components and libraries",
       "charts"
@@ -2725,7 +2725,7 @@
     "description": "An infinite scroll component for Svelte apps",
     "image": "",
     "npm": "svelte-infinite-loading",
-    "stars": 56,
+    "stars": 57,
     "tags": [
       "components and libraries"
     ],
@@ -2852,7 +2852,7 @@
     "category": "Testing",
     "description": "UI component dev & test",
     "image": "",
-    "stars": 58356,
+    "stars": 58377,
     "tags": [
       "testing"
     ],
@@ -2892,7 +2892,7 @@
     "category": "Boilerplate",
     "description": "A base for building shareable Svelte components",
     "image": "",
-    "stars": 364,
+    "stars": 365,
     "tags": [
       "templates"
     ],
@@ -2919,7 +2919,7 @@
     "description": "A (very experimental) project to bring WebGL to Svelte",
     "image": "",
     "npm": "@sveltejs/gl",
-    "stars": 451,
+    "stars": 452,
     "tags": [
       "webgl"
     ],
@@ -2972,7 +2972,7 @@
     "description": "The `<Repl>` component used on the Svelte website",
     "image": "",
     "npm": "@sveltejs/svelte-repl",
-    "stars": 203,
+    "stars": 204,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -3014,7 +3014,7 @@
     "description": "A virtual list component for Svelte apps",
     "image": "",
     "npm": "@sveltejs/svelte-virtual-list",
-    "stars": 366,
+    "stars": 367,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -3027,7 +3027,7 @@
     "category": "Boilerplate",
     "description": "Template for building basic applications with Svelte with rollup",
     "image": "",
-    "stars": 1003,
+    "stars": 1011,
     "tags": [
       "templates"
     ],
@@ -3039,7 +3039,7 @@
     "category": "Boilerplate",
     "description": "Template for building basic applications with Svelte and custom elements",
     "image": "",
-    "stars": 17,
+    "stars": 18,
     "tags": [
       "templates"
     ],
@@ -3104,7 +3104,7 @@
     "description": "Simple and complete DOM testing utilities that encourage good practices",
     "image": "",
     "npm": "@testing-library/svelte",
-    "stars": 359,
+    "stars": 360,
     "tags": [
       "testing"
     ],
@@ -3187,7 +3187,7 @@
     "description": "A lightweight library for managing forms in Svelte",
     "image": "",
     "npm": "svelte-forms-lib",
-    "stars": 217,
+    "stars": 218,
     "tags": [
       "components and libraries",
       "forms and validation"
@@ -3213,7 +3213,7 @@
     "category": "Boilerplate",
     "description": "A showcase app for all Ionic UI elements to create awesome mobile apps. Published as web app too.",
     "image": "",
-    "stars": 148,
+    "stars": 149,
     "tags": [
       "components and libraries",
       "component sets",
@@ -3324,7 +3324,7 @@
     "category": "",
     "description": "Focused on making embedding and using media elements for the web simple.",
     "image": "",
-    "stars": 1475,
+    "stars": 1477,
     "tags": [
       "video",
       "audio",
