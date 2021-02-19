@@ -73,7 +73,7 @@
     "description": "Svelte UI components based on super lightweight chota CSS framework.",
     "image": "",
     "npm": "svelte-chota",
-    "stars": 141,
+    "stars": 143,
     "tags": [
       "components and libraries",
       "component sets"
@@ -128,7 +128,7 @@
     "description": "Highly declarative, very tiny (~3.8 Kb), dependency free router",
     "image": "",
     "npm": "tinro",
-    "stars": 326,
+    "stars": 330,
     "tags": [
       "routers"
     ],
@@ -246,7 +246,7 @@
     "description": "Svelte store with a websocket backend",
     "image": "",
     "npm": "svelte-websocket-store",
-    "stars": 58,
+    "stars": 59,
     "tags": [
       "components and libraries",
       "stores and state"
@@ -286,7 +286,7 @@
     "description": "A GDPR compliant cookie consent banner implementation",
     "image": "",
     "npm": "@beyonk/gdpr-cookie-consent-banner",
-    "stars": 61,
+    "stars": 62,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -382,7 +382,7 @@
     "description": "Mapbox integration for Svelte",
     "image": "",
     "npm": "@beyonk/svelte-mapbox",
-    "stars": 105,
+    "stars": 106,
     "tags": [
       "components and libraries",
       "maps"
@@ -502,7 +502,7 @@
     "description": "A list with animated drag-n-drop functionality",
     "image": "",
     "npm": "svelte-sortable-list",
-    "stars": 76,
+    "stars": 75,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -530,7 +530,7 @@
     "description": "Writable store that syncs with the browser's search params",
     "image": "",
     "npm": "query-store",
-    "stars": 23,
+    "stars": 24,
     "tags": [
       "components and libraries",
       "stores and state"
@@ -678,7 +678,7 @@
     "description": "Component for moveable, draggable, resizable, scalable, rotatable, and more",
     "image": "",
     "npm": "svelte-moveable",
-    "stars": 5329,
+    "stars": 5336,
     "tags": [
       "components and libraries",
       "interactions"
@@ -813,7 +813,7 @@
     "description": "A declarative Svelte routing library with SSR support",
     "image": "",
     "npm": "svelte-routing",
-    "stars": 1242,
+    "stars": 1245,
     "tags": [
       "routers"
     ],
@@ -939,7 +939,7 @@
     ],
     "title": "@urql/svelte",
     "url": "https://github.com/FormidableLabs/urql/tree/master/packages/svelte-urql",
-    "stars": 5524
+    "stars": 5528
   },
   {
     "addedOn": "2020-09-29T14:39:13Z",
@@ -1080,7 +1080,7 @@
     "description": "Svelte Material UI Components",
     "image": "",
     "npm": "svelte-material-ui",
-    "stars": 1492,
+    "stars": 1496,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1094,7 +1094,7 @@
     "description": "Svelte implementation of the Carbon Design System",
     "image": "",
     "npm": "carbon-components-svelte",
-    "stars": 623,
+    "stars": 626,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1108,7 +1108,7 @@
     "description": "A pretty cool UI kit for Svelte",
     "image": "",
     "npm": "attractions",
-    "stars": 156,
+    "stars": 157,
     "tags": [
       "components and libraries"
     ],
@@ -1267,7 +1267,7 @@
     "description": "Simple package that makes ML more accessible",
     "image": "",
     "npm": "svelteml",
-    "stars": 43,
+    "stars": 44,
     "tags": [
       "components and libraries"
     ],
@@ -1293,7 +1293,7 @@
     "category": "Boilerplate",
     "description": "A template to help you start developing SPAs with Svelte and Firebase",
     "image": "",
-    "stars": 100,
+    "stars": 101,
     "tags": [
       "templates"
     ],
@@ -1306,7 +1306,7 @@
     "description": "Svelte router specially designed for Single Page Applications (SPA)",
     "image": "",
     "npm": "svelte-router-spa",
-    "stars": 295,
+    "stars": 294,
     "tags": [
       "routers"
     ],
@@ -1372,7 +1372,7 @@
     "description": "A Svelte preprocessor with baked in support for common preprocessors",
     "image": "",
     "npm": "svelte-preprocess",
-    "stars": 945,
+    "stars": 946,
     "tags": [
       "integrations",
       "preprocessors"
@@ -1620,7 +1620,7 @@
     "description": "Universal PWA Builder (WIP)",
     "image": "",
     "npm": "@pwa/cli",
-    "stars": 3001,
+    "stars": 3002,
     "tags": [
       "integrations",
       "cli tools"
@@ -1755,7 +1755,7 @@
     "description": "Simple, declarative routing for single page apps built with Svelte",
     "image": "",
     "npm": "svelte-navigator",
-    "stars": 114,
+    "stars": 115,
     "tags": [
       "routers"
     ],
@@ -1864,7 +1864,7 @@
     ],
     "title": "@egjs/svelte-infinitegrid",
     "url": "https://github.com/naver/egjs-infinitegrid/blob/master/packages/svelte-infinitegrid",
-    "stars": 735
+    "stars": 736
   },
   {
     "addedOn": "2020-09-29T14:39:13Z",
@@ -1901,7 +1901,7 @@
     "category": "Boilerplate",
     "description": "Starter Rollup template for Sapper apps with Firebase functions",
     "image": "",
-    "stars": 25,
+    "stars": 26,
     "tags": [
       "ssr",
       "templates"
@@ -2295,7 +2295,7 @@
     "description": "A markdown preprocessor for Svelte",
     "image": "",
     "npm": "mdsvex",
-    "stars": 626,
+    "stars": 628,
     "tags": [
       "integrations",
       "preprocessors"
@@ -2348,7 +2348,7 @@
     "category": "Boilerplate",
     "description": "Svelte + Snowpack, TypeScript, SCSS, Jest with tight VSCode debugging",
     "image": "",
-    "stars": 6,
+    "stars": 5,
     "tags": [
       "editor tools",
       "templates",
@@ -2507,7 +2507,7 @@
     "description": "Experimental charting library for Svelte",
     "image": "",
     "npm": "@sveltejs/pancake",
-    "stars": 676,
+    "stars": 678,
     "tags": [
       "components and libraries",
       "charts"
@@ -2574,7 +2574,7 @@
     "description": "Compile Svelte components with Rollup",
     "image": "",
     "npm": "rollup-plugin-svelte",
-    "stars": 358,
+    "stars": 357,
     "tags": [
       "integrations",
       "bundler plugins"
@@ -2852,7 +2852,7 @@
     "category": "Testing",
     "description": "UI component dev & test",
     "image": "",
-    "stars": 58555,
+    "stars": 58586,
     "tags": [
       "testing"
     ],
@@ -2945,7 +2945,7 @@
     "category": "Boilerplate",
     "description": "Starter template for Sapper apps",
     "image": "",
-    "stars": 701,
+    "stars": 702,
     "tags": [
       "templates"
     ],
@@ -2958,7 +2958,7 @@
     "description": "Webpack loader for Svelte components",
     "image": "",
     "npm": "svelte-loader",
-    "stars": 444,
+    "stars": 445,
     "tags": [
       "integrations",
       "bundler plugins"
@@ -3027,7 +3027,7 @@
     "category": "Boilerplate",
     "description": "Template for building basic applications with Svelte with rollup",
     "image": "",
-    "stars": 1025,
+    "stars": 1026,
     "tags": [
       "templates"
     ],
@@ -3051,7 +3051,7 @@
     "category": "Boilerplate",
     "description": "Template for building basic Svelte applications with webpack",
     "image": "",
-    "stars": 233,
+    "stars": 234,
     "tags": [
       "templates"
     ],
@@ -3091,7 +3091,7 @@
     "description": "abstract-state-router renderer for Svelte",
     "image": "",
     "npm": "svelte-state-renderer",
-    "stars": 31,
+    "stars": 30,
     "tags": [
       "routers"
     ],
@@ -3117,7 +3117,7 @@
     "description": "Svelte component for file upload and file dropzone.",
     "image": "",
     "npm": "svelte-file-dropzone",
-    "stars": 39,
+    "stars": 40,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -3131,7 +3131,7 @@
     "description": "Svelte integration for Apollo GraphQL",
     "image": "",
     "npm": "svelte-apollo",
-    "stars": 634,
+    "stars": 635,
     "tags": [
       "components and libraries",
       "stores and state"
@@ -3200,7 +3200,7 @@
     "category": "Developer Experience",
     "description": "Provides syntax highlighting of Svelte components in WebStorm and friends",
     "image": "",
-    "stars": 344,
+    "stars": 345,
     "tags": [
       "integrations",
       "editor tools"
@@ -3354,7 +3354,7 @@
     "description": "A fast, friendly, and fun web UI kit for everyone",
     "image": "",
     "npm": "minna-ui",
-    "stars": 85,
+    "stars": 86,
     "tags": [
       "components and libraries",
       "component sets"
@@ -3487,7 +3487,7 @@
     "category": "Boilerplate",
     "description": "Skip setup and start code with SENT (Sapper.js, Express.js, Node.js, Typescript) and other tools template",
     "image": "",
-    "stars": 66,
+    "stars": 67,
     "tags": [
       "templates"
     ],
