@@ -5,7 +5,7 @@
     "description": "A lightweight datepicker with neat animations and a unique UX",
     "image": "",
     "npm": "svelte-calendar",
-    "stars": 266,
+    "stars": 267,
     "tags": [
       "components and libraries",
       "time and date"
@@ -31,7 +31,7 @@
     "description": "Svelte tags input is a component to use with Svelte and easily enter tags and customize some functions",
     "image": "",
     "npm": "svelte-tags-input",
-    "stars": 115,
+    "stars": 116,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -128,7 +128,7 @@
     "description": "Highly declarative, very tiny (~3.8 Kb), dependency free router",
     "image": "",
     "npm": "tinro",
-    "stars": 330,
+    "stars": 332,
     "tags": [
       "routers"
     ],
@@ -272,7 +272,7 @@
     "description": "Bootstrap 4 components for Svelte",
     "image": "",
     "npm": "sveltestrap",
-    "stars": 525,
+    "stars": 526,
     "tags": [
       "components and libraries",
       "component sets"
@@ -544,7 +544,7 @@
     "description": "Bulma components for Svelte",
     "image": "",
     "npm": "svelma",
-    "stars": 392,
+    "stars": 393,
     "tags": [
       "components and libraries",
       "component sets"
@@ -664,7 +664,7 @@
     "description": "A table with sorting and filtering",
     "image": "",
     "npm": "svelte-table",
-    "stars": 156,
+    "stars": 157,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -678,7 +678,7 @@
     "description": "Component for moveable, draggable, resizable, scalable, rotatable, and more",
     "image": "",
     "npm": "svelte-moveable",
-    "stars": 5345,
+    "stars": 5359,
     "tags": [
       "components and libraries",
       "interactions"
@@ -813,7 +813,7 @@
     "description": "A declarative Svelte routing library with SSR support",
     "image": "",
     "npm": "svelte-routing",
-    "stars": 1248,
+    "stars": 1250,
     "tags": [
       "routers"
     ],
@@ -840,7 +840,7 @@
     "description": "A user interface for inputting date ranges",
     "image": "",
     "npm": "@equipmentshare/date-range-input",
-    "stars": 11,
+    "stars": 12,
     "tags": [
       "components and libraries",
       "time and date"
@@ -939,7 +939,7 @@
     ],
     "title": "@urql/svelte",
     "url": "https://github.com/FormidableLabs/urql/tree/master/packages/svelte-urql",
-    "stars": 5537
+    "stars": 5539
   },
   {
     "addedOn": "2020-09-29T14:39:13Z",
@@ -973,7 +973,7 @@
     "description": "Svelte controlling native components via Nativescript",
     "image": "",
     "npm": "svelte-native",
-    "stars": 814,
+    "stars": 815,
     "tags": [
       "native"
     ],
@@ -1080,7 +1080,7 @@
     "description": "Svelte Material UI Components",
     "image": "",
     "npm": "svelte-material-ui",
-    "stars": 1501,
+    "stars": 1502,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1094,7 +1094,7 @@
     "description": "Svelte implementation of the Carbon Design System",
     "image": "",
     "npm": "carbon-components-svelte",
-    "stars": 635,
+    "stars": 637,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1108,7 +1108,7 @@
     "description": "A pretty cool UI kit for Svelte",
     "image": "",
     "npm": "attractions",
-    "stars": 165,
+    "stars": 167,
     "tags": [
       "components and libraries"
     ],
@@ -1135,7 +1135,7 @@
     "description": "Router for SPAs using Svelte 3",
     "image": "",
     "npm": "svelte-spa-router",
-    "stars": 708,
+    "stars": 710,
     "tags": [
       "routers"
     ],
@@ -1147,7 +1147,7 @@
     "category": "Boilerplate",
     "description": "Svelte ecommerce - Headless, Authentication, Cart & Checkout, TailwindCSS, Server Rendered, Proxy + API Integrated, Animations, Stores, Lazy Loading, Loading Indicators, Carousel, Instant Search, Faceted Filters, 1 command deploy to production, Open Source, MIT license",
     "image": "",
-    "stars": 276,
+    "stars": 278,
     "tags": [
       "templates"
     ],
@@ -1344,7 +1344,7 @@
     "description": "Internationalization library for Svelte",
     "image": "",
     "npm": "svelte-i18n",
-    "stars": 419,
+    "stars": 420,
     "tags": [
       "components and libraries",
       "internationalization"
@@ -1699,7 +1699,7 @@
     "description": "Material design components for Svelte using Tailwind CSS",
     "image": "",
     "npm": "smelte",
-    "stars": 848,
+    "stars": 850,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1713,7 +1713,7 @@
     "description": "Image processing with Sharp for Svelte",
     "image": "",
     "npm": "svelte-image",
-    "stars": 404,
+    "stars": 405,
     "tags": [
       "components and libraries",
       "images"
@@ -1755,7 +1755,7 @@
     "description": "Simple, declarative routing for single page apps built with Svelte",
     "image": "",
     "npm": "svelte-navigator",
-    "stars": 116,
+    "stars": 117,
     "tags": [
       "routers"
     ],
@@ -1864,7 +1864,7 @@
     ],
     "title": "@egjs/svelte-infinitegrid",
     "url": "https://github.com/naver/egjs-infinitegrid/blob/master/packages/svelte-infinitegrid",
-    "stars": 736
+    "stars": 737
   },
   {
     "addedOn": "2020-09-29T14:39:13Z",
@@ -1889,7 +1889,7 @@
     "category": "Boilerplate",
     "description": "Offline-Capable todo list built with Svelte, PouchDB and CouchDB",
     "image": "",
-    "stars": 35,
+    "stars": 36,
     "tags": [
       "templates"
     ],
@@ -2145,7 +2145,7 @@
     "description": "State-based router for Svelte 3.",
     "image": "",
     "npm": "svelte-pathfinder",
-    "stars": 59,
+    "stars": 60,
     "tags": [
       "routers",
       "stores and state"
@@ -2295,7 +2295,7 @@
     "description": "A markdown preprocessor for Svelte",
     "image": "",
     "npm": "mdsvex",
-    "stars": 630,
+    "stars": 628,
     "tags": [
       "integrations",
       "preprocessors"
@@ -2375,7 +2375,7 @@
     "category": "Forms & User Input",
     "description": "Simple autocomplete / typeahead component for Svelte",
     "image": "",
-    "stars": 97,
+    "stars": 103,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -2507,7 +2507,7 @@
     "description": "Experimental charting library for Svelte",
     "image": "",
     "npm": "@sveltejs/pancake",
-    "stars": 679,
+    "stars": 683,
     "tags": [
       "components and libraries",
       "charts"
@@ -2546,7 +2546,7 @@
     "description": "A select component for Svelte apps",
     "image": "",
     "npm": "svelte-select",
-    "stars": 396,
+    "stars": 397,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -2657,7 +2657,7 @@
     "description": "A carousel with touch support",
     "image": "",
     "npm": "svelte-swipe",
-    "stars": 159,
+    "stars": 160,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -2725,7 +2725,7 @@
     "description": "An infinite scroll component for Svelte apps",
     "image": "",
     "npm": "svelte-infinite-loading",
-    "stars": 60,
+    "stars": 61,
     "tags": [
       "components and libraries"
     ],
@@ -2852,7 +2852,7 @@
     "category": "Testing",
     "description": "UI component dev & test",
     "image": "",
-    "stars": 58674,
+    "stars": 58698,
     "tags": [
       "testing"
     ],
@@ -2879,7 +2879,7 @@
     "description": "Automated Svelte routes",
     "image": "",
     "npm": "routify",
-    "stars": 1100,
+    "stars": 1105,
     "tags": [
       "routers",
       "ssr"
@@ -2892,7 +2892,7 @@
     "category": "Boilerplate",
     "description": "A base for building shareable Svelte components",
     "image": "",
-    "stars": 371,
+    "stars": 372,
     "tags": [
       "templates"
     ],
@@ -3027,7 +3027,7 @@
     "category": "Boilerplate",
     "description": "Template for building basic applications with Svelte with rollup",
     "image": "",
-    "stars": 1033,
+    "stars": 1034,
     "tags": [
       "templates"
     ],
@@ -3145,7 +3145,7 @@
     "description": "Use observables in Svelte components with ease",
     "image": "",
     "npm": "svelte-observable",
-    "stars": 47,
+    "stars": 48,
     "tags": [
       "components and libraries",
       "stores and state"
@@ -3200,7 +3200,7 @@
     "category": "Developer Experience",
     "description": "Provides syntax highlighting of Svelte components in WebStorm and friends",
     "image": "",
-    "stars": 345,
+    "stars": 346,
     "tags": [
       "integrations",
       "editor tools"
@@ -3297,7 +3297,7 @@
     "description": "A Svelte component to crop images with easy interactions",
     "image": "",
     "npm": "svelte-easy-crop",
-    "stars": 78,
+    "stars": 79,
     "tags": [
       "components and libraries",
       "images"
@@ -3324,7 +3324,7 @@
     "category": "",
     "description": "Focused on making embedding and using media elements for the web simple.",
     "image": "",
-    "stars": 1485,
+    "stars": 1486,
     "tags": [
       "video",
       "audio",
@@ -3422,7 +3422,7 @@
     "description": "Input masking component for Svelte (credit cards, phones, dates, numbers, etc.)",
     "image": "",
     "npm": "svelte-input-mask",
-    "stars": 54,
+    "stars": 55,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -3659,7 +3659,7 @@
     "category": "Developer Experience",
     "description": "Vscode extension to sort your CSS properties, and make them easy to read",
     "image": "",
-    "stars": 0,
+    "stars": 1,
     "tags": [
       "editor tools"
     ],
