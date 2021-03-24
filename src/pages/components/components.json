@@ -73,7 +73,7 @@
     "description": "Svelte UI components based on super lightweight chota CSS framework.",
     "image": "",
     "npm": "svelte-chota",
-    "stars": 158,
+    "stars": 159,
     "tags": [
       "components and libraries",
       "component sets"
@@ -233,7 +233,7 @@
     "description": "Generate dynamic forms for sveltejs / Sapper js",
     "image": "",
     "npm": "svelte-formly",
-    "stars": 83,
+    "stars": 85,
     "tags": [
       "forms and validation"
     ],
@@ -286,7 +286,7 @@
     "description": "A GDPR compliant cookie consent banner implementation",
     "image": "",
     "npm": "@beyonk/gdpr-cookie-consent-banner",
-    "stars": 65,
+    "stars": 66,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -572,7 +572,7 @@
     "description": "A component to render a credit card preview - useful for ecommerce.",
     "image": "",
     "npm": "svelte-credit-cards",
-    "stars": 21,
+    "stars": 24,
     "tags": [
       "components and libraries"
     ],
@@ -598,7 +598,7 @@
     "description": "Svelte support for (Neo)Vim",
     "image": "",
     "npm": "coc-svelte",
-    "stars": 76,
+    "stars": 77,
     "tags": [
       "integrations",
       "editor tools"
@@ -678,7 +678,7 @@
     "description": "Component for moveable, draggable, resizable, scalable, rotatable, and more",
     "image": "",
     "npm": "svelte-moveable",
-    "stars": 5462,
+    "stars": 5463,
     "tags": [
       "components and libraries",
       "interactions"
@@ -813,7 +813,7 @@
     "description": "A declarative Svelte routing library with SSR support",
     "image": "",
     "npm": "svelte-routing",
-    "stars": 1293,
+    "stars": 1294,
     "tags": [
       "routers"
     ],
@@ -939,7 +939,7 @@
     ],
     "title": "@urql/svelte",
     "url": "https://github.com/FormidableLabs/urql/tree/master/packages/svelte-urql",
-    "stars": 5654
+    "stars": 5664
   },
   {
     "addedOn": "2020-09-29T14:39:13Z",
@@ -973,7 +973,7 @@
     "description": "Svelte controlling native components via Nativescript",
     "image": "",
     "npm": "svelte-native",
-    "stars": 842,
+    "stars": 844,
     "tags": [
       "native"
     ],
@@ -1080,7 +1080,7 @@
     "description": "Svelte Material UI Components",
     "image": "",
     "npm": "svelte-material-ui",
-    "stars": 1558,
+    "stars": 1560,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1094,7 +1094,7 @@
     "description": "Svelte implementation of the Carbon Design System",
     "image": "",
     "npm": "carbon-components-svelte",
-    "stars": 691,
+    "stars": 694,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1108,7 +1108,7 @@
     "description": "A pretty cool UI kit for Svelte",
     "image": "",
     "npm": "attractions",
-    "stars": 183,
+    "stars": 185,
     "tags": [
       "components and libraries"
     ],
@@ -1135,7 +1135,7 @@
     "description": "Router for SPAs using Svelte 3",
     "image": "",
     "npm": "svelte-spa-router",
-    "stars": 744,
+    "stars": 745,
     "tags": [
       "routers"
     ],
@@ -1187,7 +1187,7 @@
     "description": "A cli svelte compiler & watcher that works with snowpack",
     "image": "",
     "npm": "svelvet",
-    "stars": 310,
+    "stars": 309,
     "tags": [
       "integrations",
       "bundler plugins"
@@ -1280,7 +1280,7 @@
     "description": "A simple tool for comparing two images.",
     "image": "",
     "npm": "svelte-compare-image-slider",
-    "stars": 8,
+    "stars": 9,
     "tags": [
       "components and libraries",
       "images"
@@ -1293,7 +1293,7 @@
     "category": "Boilerplate",
     "description": "A template to help you start developing SPAs with Svelte and Firebase",
     "image": "",
-    "stars": 112,
+    "stars": 115,
     "tags": [
       "templates"
     ],
@@ -1372,7 +1372,7 @@
     "description": "A Svelte preprocessor with baked in support for common preprocessors",
     "image": "",
     "npm": "svelte-preprocess",
-    "stars": 972,
+    "stars": 973,
     "tags": [
       "integrations",
       "preprocessors"
@@ -1606,7 +1606,7 @@
     "description": "SASS/SCSS preprocessor",
     "image": "",
     "npm": "svelte-preprocess-sass",
-    "stars": 78,
+    "stars": 79,
     "tags": [
       "integrations",
       "preprocessors"
@@ -1699,7 +1699,7 @@
     "description": "Material design components for Svelte using Tailwind CSS",
     "image": "",
     "npm": "smelte",
-    "stars": 878,
+    "stars": 879,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1755,7 +1755,7 @@
     "description": "Simple, declarative routing for single page apps built with Svelte",
     "image": "",
     "npm": "svelte-navigator",
-    "stars": 127,
+    "stars": 126,
     "tags": [
       "routers"
     ],
@@ -1781,7 +1781,7 @@
     "description": "a framework for mostly-reusable graphics with Svelte",
     "image": "",
     "npm": "layercake",
-    "stars": 331,
+    "stars": 332,
     "tags": [
       "components and libraries",
       "charts"
@@ -1914,7 +1914,7 @@
     "category": "Boilerplate",
     "description": "Starter Rollup template for Sapper apps using postcss, purgecss, cssnano, tailwindcss and svelte-preprocess",
     "image": "",
-    "stars": 28,
+    "stars": 29,
     "tags": [
       "templates"
     ],
@@ -2295,7 +2295,7 @@
     "description": "A markdown preprocessor for Svelte",
     "image": "",
     "npm": "mdsvex",
-    "stars": 656,
+    "stars": 657,
     "tags": [
       "integrations",
       "preprocessors"
@@ -2309,7 +2309,7 @@
     "description": "Use Svelte components with Vue and React",
     "image": "",
     "npm": "svelte-adapter",
-    "stars": 190,
+    "stars": 191,
     "tags": [
       "components and libraries"
     ],
@@ -2375,7 +2375,7 @@
     "category": "Forms & User Input",
     "description": "Simple autocomplete / typeahead component for Svelte",
     "image": "",
-    "stars": 109,
+    "stars": 110,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -2546,7 +2546,7 @@
     "description": "A select component for Svelte apps",
     "image": "",
     "npm": "svelte-select",
-    "stars": 418,
+    "stars": 419,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -2852,7 +2852,7 @@
     "category": "Testing",
     "description": "UI component dev & test",
     "image": "",
-    "stars": 59480,
+    "stars": 59511,
     "tags": [
       "testing"
     ],
@@ -2879,7 +2879,7 @@
     "description": "Automated Svelte routes",
     "image": "",
     "npm": "routify",
-    "stars": 1147,
+    "stars": 1149,
     "tags": [
       "routers",
       "ssr"
@@ -2892,7 +2892,7 @@
     "category": "Boilerplate",
     "description": "A base for building shareable Svelte components",
     "image": "",
-    "stars": 388,
+    "stars": 389,
     "tags": [
       "templates"
     ],
@@ -2958,7 +2958,7 @@
     "description": "Webpack loader for Svelte components",
     "image": "",
     "npm": "svelte-loader",
-    "stars": 453,
+    "stars": 454,
     "tags": [
       "integrations",
       "bundler plugins"
@@ -3027,7 +3027,7 @@
     "category": "Boilerplate",
     "description": "Template for building basic applications with Svelte with rollup",
     "image": "",
-    "stars": 1088,
+    "stars": 1089,
     "tags": [
       "templates"
     ],
@@ -3269,7 +3269,7 @@
     "description": "A responsive, draggable and resizable grid layout, for Svelte",
     "image": "",
     "npm": "svelte-grid",
-    "stars": 475,
+    "stars": 477,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -3646,7 +3646,7 @@
     "description": "Use Appwrite in Svelte components",
     "image": "",
     "npm": "svelte-appwrite",
-    "stars": 27,
+    "stars": 28,
     "tags": [
       "components and libraries",
       "component sets"
@@ -3659,7 +3659,7 @@
     "category": "Developer Experience",
     "description": "Vscode extension to sort your CSS properties, and make them easy to read",
     "image": "",
-    "stars": 1,
+    "stars": 2,
     "tags": [
       "editor tools"
     ],
