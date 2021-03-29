@@ -73,7 +73,7 @@
     "description": "Svelte UI components based on super lightweight chota CSS framework.",
     "image": "",
     "npm": "svelte-chota",
-    "stars": 161,
+    "stars": 162,
     "tags": [
       "components and libraries",
       "component sets"
@@ -272,7 +272,7 @@
     "description": "Bootstrap 4 components for Svelte",
     "image": "",
     "npm": "sveltestrap",
-    "stars": 544,
+    "stars": 546,
     "tags": [
       "components and libraries",
       "component sets"
@@ -544,7 +544,7 @@
     "description": "Bulma components for Svelte",
     "image": "",
     "npm": "svelma",
-    "stars": 404,
+    "stars": 405,
     "tags": [
       "components and libraries",
       "component sets"
@@ -705,7 +705,7 @@
     "category": "Boilerplate",
     "description": "Starter Webpack template for Sapper apps using tailwindcss, postcss, purgecss, and svelte-preprocess.",
     "image": "",
-    "stars": 7,
+    "stars": 8,
     "tags": [
       "templates"
     ],
@@ -759,7 +759,7 @@
     "description": "Feather icons for Svelte",
     "image": "",
     "npm": "svelte-feather-icons",
-    "stars": 60,
+    "stars": 61,
     "tags": [
       "components and libraries",
       "fonts and icons"
@@ -813,7 +813,7 @@
     "description": "A declarative Svelte routing library with SSR support",
     "image": "",
     "npm": "svelte-routing",
-    "stars": 1301,
+    "stars": 1299,
     "tags": [
       "routers"
     ],
@@ -867,7 +867,7 @@
     "category": "Developer Experience",
     "description": "Svelte JavaScript syntax highlighting for vim",
     "image": "",
-    "stars": 159,
+    "stars": 160,
     "tags": [
       "integrations",
       "editor tools"
@@ -919,7 +919,7 @@
     "description": "A simple, small, and content-agnostic modal for Svelte",
     "image": "",
     "npm": "svelte-simple-modal",
-    "stars": 131,
+    "stars": 134,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -939,7 +939,7 @@
     ],
     "title": "@urql/svelte",
     "url": "https://github.com/FormidableLabs/urql/tree/master/packages/svelte-urql",
-    "stars": 5675
+    "stars": 5679
   },
   {
     "addedOn": "2020-09-29T14:39:13Z",
@@ -1080,7 +1080,7 @@
     "description": "Svelte Material UI Components",
     "image": "",
     "npm": "svelte-material-ui",
-    "stars": 1564,
+    "stars": 1566,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1094,7 +1094,7 @@
     "description": "Svelte implementation of the Carbon Design System",
     "image": "",
     "npm": "carbon-components-svelte",
-    "stars": 706,
+    "stars": 707,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1108,7 +1108,7 @@
     "description": "A pretty cool UI kit for Svelte",
     "image": "",
     "npm": "attractions",
-    "stars": 186,
+    "stars": 187,
     "tags": [
       "components and libraries"
     ],
@@ -1135,7 +1135,7 @@
     "description": "Router for SPAs using Svelte 3",
     "image": "",
     "npm": "svelte-spa-router",
-    "stars": 748,
+    "stars": 749,
     "tags": [
       "routers"
     ],
@@ -1253,7 +1253,7 @@
     "description": "Tabs component for Svelte",
     "image": "",
     "npm": "svelte-tabs",
-    "stars": 69,
+    "stars": 70,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -1306,7 +1306,7 @@
     "description": "Svelte router specially designed for Single Page Applications (SPA)",
     "image": "",
     "npm": "svelte-router-spa",
-    "stars": 319,
+    "stars": 320,
     "tags": [
       "routers"
     ],
@@ -1344,7 +1344,7 @@
     "description": "Internationalization library for Svelte",
     "image": "",
     "npm": "svelte-i18n",
-    "stars": 438,
+    "stars": 440,
     "tags": [
       "components and libraries",
       "internationalization"
@@ -1372,7 +1372,7 @@
     "description": "A Svelte preprocessor with baked in support for common preprocessors",
     "image": "",
     "npm": "svelte-preprocess",
-    "stars": 979,
+    "stars": 981,
     "tags": [
       "integrations",
       "preprocessors"
@@ -1699,7 +1699,7 @@
     "description": "Material design components for Svelte using Tailwind CSS",
     "image": "",
     "npm": "smelte",
-    "stars": 885,
+    "stars": 886,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1713,7 +1713,7 @@
     "description": "Image processing with Sharp for Svelte",
     "image": "",
     "npm": "svelte-image",
-    "stars": 424,
+    "stars": 425,
     "tags": [
       "components and libraries",
       "images"
@@ -1755,7 +1755,7 @@
     "description": "Simple, declarative routing for single page apps built with Svelte",
     "image": "",
     "npm": "svelte-navigator",
-    "stars": 128,
+    "stars": 127,
     "tags": [
       "routers"
     ],
@@ -1781,7 +1781,7 @@
     "description": "a framework for mostly-reusable graphics with Svelte",
     "image": "",
     "npm": "layercake",
-    "stars": 334,
+    "stars": 335,
     "tags": [
       "components and libraries",
       "charts"
@@ -2295,7 +2295,7 @@
     "description": "A markdown preprocessor for Svelte",
     "image": "",
     "npm": "mdsvex",
-    "stars": 668,
+    "stars": 669,
     "tags": [
       "integrations",
       "preprocessors"
@@ -2546,7 +2546,7 @@
     "description": "A select component for Svelte apps",
     "image": "",
     "npm": "svelte-select",
-    "stars": 419,
+    "stars": 421,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -2643,7 +2643,7 @@
     "description": "Customizable version of GitHub's contribution graph",
     "image": "",
     "npm": "svelte-heatmap",
-    "stars": 74,
+    "stars": 76,
     "tags": [
       "components and libraries",
       "time and date"
@@ -2852,7 +2852,7 @@
     "category": "Testing",
     "description": "UI component dev & test",
     "image": "",
-    "stars": 59745,
+    "stars": 59867,
     "tags": [
       "testing"
     ],
@@ -2879,7 +2879,7 @@
     "description": "Automated Svelte routes",
     "image": "",
     "npm": "routify",
-    "stars": 1154,
+    "stars": 1157,
     "tags": [
       "routers",
       "ssr"
@@ -2919,7 +2919,7 @@
     "description": "A (very experimental) project to bring WebGL to Svelte",
     "image": "",
     "npm": "@sveltejs/gl",
-    "stars": 463,
+    "stars": 464,
     "tags": [
       "webgl"
     ],
@@ -2958,7 +2958,7 @@
     "description": "Webpack loader for Svelte components",
     "image": "",
     "npm": "svelte-loader",
-    "stars": 455,
+    "stars": 454,
     "tags": [
       "integrations",
       "bundler plugins"
@@ -3014,7 +3014,7 @@
     "description": "A virtual list component for Svelte apps",
     "image": "",
     "npm": "@sveltejs/svelte-virtual-list",
-    "stars": 389,
+    "stars": 390,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -3117,7 +3117,7 @@
     "description": "Svelte component for file upload and file dropzone.",
     "image": "",
     "npm": "svelte-file-dropzone",
-    "stars": 43,
+    "stars": 44,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -3131,7 +3131,7 @@
     "description": "Svelte integration for Apollo GraphQL",
     "image": "",
     "npm": "svelte-apollo",
-    "stars": 650,
+    "stars": 652,
     "tags": [
       "components and libraries",
       "stores and state"
@@ -3255,7 +3255,7 @@
     "description": "Format your Svelte components using Prettier",
     "image": "",
     "npm": "prettier-plugin-svelte",
-    "stars": 321,
+    "stars": 322,
     "tags": [
       "components and libraries",
       "development and documentation"
@@ -3269,7 +3269,7 @@
     "description": "A responsive, draggable and resizable grid layout, for Svelte",
     "image": "",
     "npm": "svelte-grid",
-    "stars": 478,
+    "stars": 479,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -3324,7 +3324,7 @@
     "category": "",
     "description": "Focused on making embedding and using media elements for the web simple.",
     "image": "",
-    "stars": 1530,
+    "stars": 1531,
     "tags": [
       "video",
       "audio",
