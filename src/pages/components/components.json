@@ -73,7 +73,7 @@
     "description": "Svelte UI components based on super lightweight chota CSS framework.",
     "image": "",
     "npm": "svelte-chota",
-    "stars": 163,
+    "stars": 162,
     "tags": [
       "components and libraries",
       "component sets"
@@ -220,7 +220,7 @@
     "category": "Boilerplate",
     "description": "A truffle box for Svelte, a seed for building an Ethereum dapp using Truffle",
     "image": "",
-    "stars": 37,
+    "stars": 38,
     "tags": [
       "templates"
     ],
@@ -272,7 +272,7 @@
     "description": "Bootstrap 4 components for Svelte",
     "image": "",
     "npm": "sveltestrap",
-    "stars": 547,
+    "stars": 548,
     "tags": [
       "components and libraries",
       "component sets"
@@ -396,7 +396,7 @@
     "description": "Svelte toast notifications that can be used in any JS application",
     "image": "",
     "npm": "@beyonk/svelte-notifications",
-    "stars": 148,
+    "stars": 149,
     "tags": [
       "components and libraries",
       "notifications"
@@ -678,7 +678,7 @@
     "description": "Component for moveable, draggable, resizable, scalable, rotatable, and more",
     "image": "",
     "npm": "svelte-moveable",
-    "stars": 5482,
+    "stars": 5486,
     "tags": [
       "components and libraries",
       "interactions"
@@ -813,7 +813,7 @@
     "description": "A declarative Svelte routing library with SSR support",
     "image": "",
     "npm": "svelte-routing",
-    "stars": 1299,
+    "stars": 1300,
     "tags": [
       "routers"
     ],
@@ -919,7 +919,7 @@
     "description": "A simple, small, and content-agnostic modal for Svelte",
     "image": "",
     "npm": "svelte-simple-modal",
-    "stars": 133,
+    "stars": 134,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -1080,7 +1080,7 @@
     "description": "Svelte Material UI Components",
     "image": "",
     "npm": "svelte-material-ui",
-    "stars": 1570,
+    "stars": 1572,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1094,7 +1094,7 @@
     "description": "Svelte implementation of the Carbon Design System",
     "image": "",
     "npm": "carbon-components-svelte",
-    "stars": 711,
+    "stars": 714,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1135,7 +1135,7 @@
     "description": "Router for SPAs using Svelte 3",
     "image": "",
     "npm": "svelte-spa-router",
-    "stars": 749,
+    "stars": 750,
     "tags": [
       "routers"
     ],
@@ -1344,7 +1344,7 @@
     "description": "Internationalization library for Svelte",
     "image": "",
     "npm": "svelte-i18n",
-    "stars": 441,
+    "stars": 442,
     "tags": [
       "components and libraries",
       "internationalization"
@@ -1538,7 +1538,7 @@
     "category": "Developer Experience",
     "description": "Vim syntax and indent plugin for .svelte files",
     "image": "",
-    "stars": 49,
+    "stars": 50,
     "tags": [
       "integrations",
       "editor tools"
@@ -1620,7 +1620,7 @@
     "description": "Universal PWA Builder (WIP)",
     "image": "",
     "npm": "@pwa/cli",
-    "stars": 3013,
+    "stars": 3014,
     "tags": [
       "integrations",
       "cli tools"
@@ -1699,7 +1699,7 @@
     "description": "Material design components for Svelte using Tailwind CSS",
     "image": "",
     "npm": "smelte",
-    "stars": 887,
+    "stars": 889,
     "tags": [
       "components and libraries",
       "component sets"
@@ -1713,7 +1713,7 @@
     "description": "Image processing with Sharp for Svelte",
     "image": "",
     "npm": "svelte-image",
-    "stars": 425,
+    "stars": 426,
     "tags": [
       "components and libraries",
       "images"
@@ -1864,7 +1864,7 @@
     ],
     "title": "@egjs/svelte-infinitegrid",
     "url": "https://github.com/naver/egjs-infinitegrid/blob/master/packages/svelte-infinitegrid",
-    "stars": 753
+    "stars": 754
   },
   {
     "addedOn": "2020-09-29T14:39:13Z",
@@ -2375,7 +2375,7 @@
     "category": "Forms & User Input",
     "description": "Simple autocomplete / typeahead component for Svelte",
     "image": "",
-    "stars": 111,
+    "stars": 112,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -2468,7 +2468,7 @@
     "category": "Developer Experience",
     "description": "Chrome/Firefox extension that allows inspection of Svelte components and state",
     "image": "",
-    "stars": 485,
+    "stars": 486,
     "tags": [
       "components and libraries",
       "development and documentation"
@@ -2507,7 +2507,7 @@
     "description": "Experimental charting library for Svelte",
     "image": "",
     "npm": "@sveltejs/pancake",
-    "stars": 706,
+    "stars": 707,
     "tags": [
       "components and libraries",
       "charts"
@@ -2546,7 +2546,7 @@
     "description": "A select component for Svelte apps",
     "image": "",
     "npm": "svelte-select",
-    "stars": 424,
+    "stars": 425,
     "tags": [
       "components and libraries",
       "inputs and widgets"
@@ -2852,7 +2852,7 @@
     "category": "Testing",
     "description": "UI component dev & test",
     "image": "",
-    "stars": 59906,
+    "stars": 59944,
     "tags": [
       "testing"
     ],
@@ -2879,7 +2879,7 @@
     "description": "Automated Svelte routes",
     "image": "",
     "npm": "routify",
-    "stars": 1157,
+    "stars": 1161,
     "tags": [
       "routers",
       "ssr"
@@ -2932,7 +2932,7 @@
     "description": "A language server and VSCode extension for Svelte, useful for TypeScript support in templates",
     "image": "",
     "npm": "language-tools",
-    "stars": 519,
+    "stars": 520,
     "tags": [
       "integrations",
       "editor tools"
@@ -3104,7 +3104,7 @@
     "description": "Simple and complete DOM testing utilities that encourage good practices",
     "image": "",
     "npm": "@testing-library/svelte",
-    "stars": 374,
+    "stars": 375,
     "tags": [
       "testing"
     ],
@@ -3187,7 +3187,7 @@
     "description": "A lightweight library for managing forms in Svelte",
     "image": "",
     "npm": "svelte-forms-lib",
-    "stars": 244,
+    "stars": 245,
     "tags": [
       "components and libraries",
       "forms and validation"
@@ -3269,7 +3269,7 @@
     "description": "A responsive, draggable and resizable grid layout, for Svelte",
     "image": "",
     "npm": "svelte-grid",
-    "stars": 479,
+    "stars": 480,
     "tags": [
       "components and libraries",
       "layout and structure"
@@ -3324,7 +3324,7 @@
     "category": "",
     "description": "Focused on making embedding and using media elements for the web simple.",
     "image": "",
-    "stars": 1534,
+    "stars": 1535,
     "tags": [
       "video",
       "audio",
